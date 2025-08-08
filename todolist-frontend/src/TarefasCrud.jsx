@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from "react";
 
 
-
 const TarefasCrud = () => {
   const [tarefas, setTarefas] = useState([]);
   const [loading, setLoading] = useState(true);

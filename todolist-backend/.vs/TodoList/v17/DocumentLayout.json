@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\TodoListTeste\\todolist-backend\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8633D7A3-3174-4D93-AECD-4AF07C361B16}|TodoList\\TodoList.csproj|c:\\users\\gusta\\onedrive\\\u00E1rea de trabalho\\todolistteste\\todolist-backend\\todolist\\controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8633D7A3-3174-4D93-AECD-4AF07C361B16}|TodoList\\TodoList.csproj|solutionrelative:todolist\\controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TarefaController.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\TodoListTeste\\todolist-backend\\TodoList\\Controllers\\TarefaController.cs",
+              "RelativeDocumentMoniker": "TodoList\\Controllers\\TarefaController.cs",
+              "ToolTip": "C:\\Users\\gusta\\OneDrive\\\u00C1rea de Trabalho\\TodoListTeste\\todolist-backend\\TodoList\\Controllers\\TarefaController.cs",
+              "RelativeToolTip": "TodoList\\Controllers\\TarefaController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAzwCUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T21:33:07.451Z",
+              "EditorCaption": ""
             }
           ]
         }
