@@ -1,5 +1,7 @@
 import React, { useEffect, useState } from "react";
 
+
+
 const TarefasCrud = () => {
   const [tarefas, setTarefas] = useState([]);
   const [loading, setLoading] = useState(true);
@@ -65,7 +67,7 @@ const TarefasCrud = () => {
     if (!window.confirm("Deseja realmente excluir?")) return;
 
     try {
-      const response = await fetch(`/api/tarefa?id=${id}`, {
+      const response = await fetch(`/api/tarefa/${id}`, {
         method: "DELETE",
       });
       if (!response.ok) throw new Error("Erro ao remover tarefa");
